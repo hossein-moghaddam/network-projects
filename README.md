@@ -1,4 +1,4 @@
-# network-projects
+# Network-projects
 
 These are some network projects which are written in python
 
