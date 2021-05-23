@@ -8,7 +8,7 @@ A CLI app which functioning like [wireshark](https://en.wikipedia.org/wiki/Wires
 
 ## Project 2
 
-A CLI app like Nmap for scanning network and discovering hosts and services. The scanning [techniques](https://nmap.org/book/man-port-scanning-techniques.html) were:
+A CLI app like Nmap for scanning network and discovering hosts and services. The scanning [techniques](https://nmap.org/book/man-port-scanning-techniques.html) are:
 - Connect Scan
 - Syn Scan
 - Ack Scan
